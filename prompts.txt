@@ -1,0 +1,5 @@
+design a futuristic, movie website with scific animations the layout resemble netflix and fetch all the movies from this website https://ww4.123moviesfree.net/home/ 
+and when search https://ww4.123moviesfree.net/search/?q=(query) in query without brackets movie name  
+the available movies need to search on the link given 123movies it should redirect to that page and also when search 
+when searching don't included year for example dune-2010 not required just dune 
+https://ww4.123moviesfree.net/search/?q=${encodeURIComponent(cleanQuery) when click on the movie with this url and the movie name 
